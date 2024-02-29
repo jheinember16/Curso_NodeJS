@@ -37,4 +37,7 @@ async function ls (folder) {
   filesInfo.forEach(fileInfo => console.log(fileInfo))
 }
 
-ls(folder)
+ls(folder)  
+
+
+
